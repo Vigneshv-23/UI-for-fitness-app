@@ -50,6 +50,8 @@ Solution: Maintained a structured daily schedule
 
 ✅ Outcome
 Successfully developed a functional and interactive AI-based fitness tracking prototype using Figma. Enhanced skills in frontend design and gained confidence in UI/UX development.
+
+
 ![image](https://github.com/user-attachments/assets/f022f05d-f90e-43b7-b233-30821c2fbc28)
 ![image](https://github.com/user-attachments/assets/93ce4b7d-bd72-4010-a02b-320cdd467e5a)
 ![image](https://github.com/user-attachments/assets/97f5ffd5-1517-436b-bef2-5e22b79fd935)
